@@ -1,4 +1,0 @@
-Link que sirve para pegar el id de una imagen desde Google drive, en modo que cualquier persona pueda ver a partir del enlace, y con ello, sacar el id para que se pueda visualizar en powerbi
-
-
-https://lh3.googleusercontent.com/d/
