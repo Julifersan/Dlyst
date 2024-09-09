@@ -14,3 +14,17 @@ BG.psd
 Iconos.psd
 Llamadas.png
 Porcentaje.png
+
+01_Outliers.ipynb
+1.1.1_Fisher.ipynb
+1.1.2_Kurtosis.ipynb
+1.1.3_PruebaNormalidad.ipynb
+02_Transformacion_Logaritmica.ipynb
+2.1_Outliers.ipynb
+2.2_Fisher.ipynb
+2.3_Kurtosis.ipynb
+2.4_PruebaNormalidad.ipynb
+3.1_CV.ipynb
+3.2.ReglaEmpirica.ipynb
+4.1_Pearson.ipynb
+4.4_RegresionLineal.ipynb
